@@ -15,4 +15,9 @@
     NSLog(@"MDM Hello");
 }
 
++ (void)sayHello2
+{
+    NSLog(@"MDM Hello2");
+}
+
 @end
